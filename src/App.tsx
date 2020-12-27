@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <Car style={{ height: "200px" }} moveBody clouds moveWheels moveY />
+        <Car style={{ height: "200px", position: "fixed" }} moveBody clouds moveWheels logo />
       </header>
     </div>
   );
