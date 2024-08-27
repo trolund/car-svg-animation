@@ -1,11 +1,5 @@
-# Car Animation Component
+# Animatated SVG Car Component
 
-This project provides a customizable React component that renders an animated SVG car. The component allows for various animations, including body movement, wheel rotation, vertical motion, and the inclusion of animated clouds in the background.
+This project provides a **very simple example** of how SVG animation can be done in React. The component is customizable and renders an animated SVG car, demonstrating basic animation techniques. The component allows for various animations, including body movement, wheel rotation, vertical motion, and the inclusion of animated clouds in the background.
 
-## Features
-
-- **Animated Car**: The component renders a detailed SVG car with optional animations for the body, wheels, and vertical movement.
-- **Customizable**: Easily customize the car's appearance and animation settings through props.
-- **Responsive Design**: The component adapts to different screen sizes and can be styled using inline styles or external CSS.
-- **Clouds Animation**: An optional clouds animation can be toggled to add a dynamic background effect.
-
+![alt text](img.png)
